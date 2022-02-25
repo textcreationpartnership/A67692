@@ -1,0 +1,791 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscellany poems Written by R. W. C.C. Cambr.</title>
+            <author>Warren, Robert, 1680-1740.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67692</idno>
+            <idno type="STC">Wing W979B</idno>
+            <idno type="STC">ESTC R220848</idno>
+            <idno type="EEBO-CITATION">99832233</idno>
+            <idno type="PROQUEST">99832233</idno>
+            <idno type="VID">36705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67692)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2102:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miscellany poems Written by R. W. C.C. Cambr.</title>
+                  <author>Warren, Robert, 1680-1740.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Rogers, at the Sun against St. Dunstan's Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: R. Warren.</note>
+                  <note>With a final page of advertisement.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36705:1" rendition="simple:additions"/>
+            <pb facs="tcp:36705:1"/>
+            <p>MISCELLANY POEMS.</p>
+            <p>WRITTEN By R. W. <hi>C. C.</hi> Cambr.</p>
+            <q xml:lang="lat">
+               <l>Non ſemper feriet quodcunque minabitur Arcus.</l>
+               <bibl>Hor. <hi>de Arte Poetica.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Rogers,</hi> at the <hi>Sun</hi> againſt S<hi rend="sup">t</hi> 
+               <hi>Dun<g ref="char:EOLhyphen"/>ſtan's</hi> Church in <hi>Fleetſtreet.</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36705:2"/>
+            <pb facs="tcp:36705:2" rendition="simple:additions"/>
+            <p>TO The Much Honoured And Moſt Religious LADY, THE <hi>LADY</hi> RUSSEL OF <hi>S<hi rend="sup">t</hi> EDM<g ref="char:V">Ʋ</g>ND's B<g ref="char:V">Ʋ</g>RY</hi> IN SUFFOLK, THESE EARLY POEMS Are moſt Humbly Dedicated BY Her Ladyſhip's Moſt Dutiful, and Moſt Obedient Servant, <hi>R. Warren.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Pindaric_ode">
+            <pb facs="tcp:36705:3"/>
+            <pb n="1" facs="tcp:36705:3"/>
+            <head>
+               <hi>RELIGION:</hi> A PINDARIQUE ODE.</head>
+            <lg>
+               <l>DESCEND <hi>Celeſtial Polyhim</hi>
+               </l>
+               <l>From that Bleſt Reſidence, where you</l>
+               <l>With Cherubim and Seraphim</l>
+               <l>Th' <hi>Almighty's</hi> Preſence View.</l>
+               <l>Where, with Immortal Lay's</l>
+               <l>Ye Eccho forth his Praiſe,</l>
+               <l>And unfatigu'd chant through along infinity of Days.</l>
+               <l>Deſcend, and now inſpire my Thought,</l>
+               <l>Let me be Taught,</l>
+               <l>Like <hi>Iſrael</hi>'s ſweet tongu'd King of Old,</l>
+               <l>In mighty Numbers, mighty Things t' unfold.</l>
+               <l>Mighty Things my Theme I've choſe,</l>
+               <l>What the <hi>vile Creature</hi> to his <hi>GREAT CREATO<g ref="char:V">Ʋ</g>R</hi> owes.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Audacious Mortal, durſt Thou then deny</l>
+               <l>Th' <hi>Almighty's Soveraignty?</hi>
+               </l>
+               <l>Think'ſt thou His Being but an Empty Name,</l>
+               <l>Sprung from Impoſture, nurs'd by Fame?</l>
+               <pb n="2" facs="tcp:36705:4"/>
+               <l>Is <hi>He</hi> no Being, who thy Being gave?</l>
+               <l>Has <hi>He</hi> no Power, who ſtill doth ſave?</l>
+               <l>Or waſt thou then the cauſe that now Thou art?</l>
+               <l>Didſt thou thy ſelf unto thy ſelf impart?</l>
+               <lg>
+                  <l>Unheard of Nonſence! Then by this we know,</l>
+                  <l>There's One <hi>Almighty</hi> Cauſe of all below,</l>
+                  <l>To whom at leaſt, We muſt our Being owe:</l>
+               </lg>
+               <l>Hence then our <hi>Gratitude</hi> and <hi>Praiſe,</hi> in Juſtice he may Claim.</l>
+               <l>(And the Ungrate's an Odious Name</l>
+               <l>We all are wont to blame)</l>
+               <l>For ſure 'tis better far to be,</l>
+               <l>Than loſt, for ever loſt in Nature's dread Abyſs, <hi>Nonentity.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>But ſtill th' unthinking wretch Would find,</l>
+               <l>(So hardly to what's good inclin'd)</l>
+               <l>Some fond excuſes to delude his Mind.</l>
+               <l>Or terms th' <hi>Almighty</hi> Partial in His great Decrees,</l>
+               <l>By Fating ſome to Bliſs, ſome to Eternal Miſeries;</l>
+               <l>Or thinks when firſt he came</l>
+               <l>A Finiſh'd Piece from the Aetherial frame,</l>
+               <l>He ſtreight from <hi>Heaven's</hi> o're ruling care was hurl'd</l>
+               <l>Upon the ſtormy Ocean of the World,</l>
+               <l>Where <hi>Chance</hi> alone deſtroys or ſaves,</l>
+               <l>Whilſt He a Wretched Wight as blindly ſteers through Fortunes Waves.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>But ah! can this be thought to be</l>
+               <l>Th' Effect of a <hi>Propitious Deity?</hi>
+               </l>
+               <pb n="3" facs="tcp:36705:4"/>
+               <l>Such Him we ſure may juſty call,</l>
+               <l>Who freely gave Exiſtence unto all.</l>
+               <l>For Bleſſings, (as 'tis own'd That was)</l>
+               <l>Flow only from a kind well meaning Cauſe.</l>
+               <lg>
+                  <l>Then ſure 'twill the ſame kindneſs ſtill retain,</l>
+                  <l>Still it's Dear Offspring with Paternal care maintain,</l>
+                  <l>And Nature never, never works in vain.</l>
+               </lg>
+               <l>Hence let us then reflect, and ſelf condemn'd at laſt declare,</l>
+               <l>What Duty from a Son the Parent may expect</l>
+               <l>(If things ſo ſmall with great we may compare)</l>
+               <l>
+                  <hi>Obedience, Honour, Fear,</hi>
+               </l>
+               <l>
+                  <hi>Affection, Humble Reſignation</hi> to His whole Deſire;</l>
+               <l>And all that tender Nature can inſpire:</l>
+               <l>'Tis this we owe, but in a vaſtly more enlarg'd Degree</l>
+               <l>Our Filial Duty to the <hi>Bounteous, Kind, Protecting Deity.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But oh! would Man conſult his Breaſt</l>
+               <l>Th' <hi>Eternal Regiſter of Good and Ill,</hi>
+               </l>
+               <l>Thoſe ſtanding Laws there by th' <hi>Almighty's</hi> Hand impreſt,</l>
+               <l>His Stubborn will</l>
+               <l>With Horrour muſt ſtart from its Impious courſe at laſt.</l>
+               <l>'Tis here <hi>ſtern Conſcience</hi> ſpite of all his cares,</l>
+               <l>Unheard of Puniſhment prepares.</l>
+               <l>Not all the Torments that of Old,</l>
+               <l>Are of Relenting Tyrants told,</l>
+               <l>Or Poets fancies could create</l>
+               <l>Are half ſo great.</l>
+               <pb n="4" facs="tcp:36705:5"/>
+               <l>Thoſe Flaming Whips <hi>Alecto</hi> bore,</l>
+               <l>The <hi>Vulture</hi> reeking in <hi>Prometheu's</hi> gore.</l>
+               <l>His Boſom the Eternal Food,</l>
+               <l>Nor <hi>Siſyphu's</hi> oppreſſing Load.</l>
+               <l>
+                  <hi>Conſcience</hi> alone inflicts them all,</l>
+               <l>And Thouſand, Thouſand more on the offending Criminal.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>And now (methinks) I'm raviſh'd in a Scene</l>
+               <l>Of Bliſs the Pious keep within.</l>
+               <l>What Joys? what calm? what ſweet repoſe</l>
+               <l>The Virtuous Soul o'reflows?</l>
+               <l>Here then Celeſtial Charmer did I cry,</l>
+               <l>A ſtronger Flight of thoughts ſupply.</l>
+               <l>Enlarge my Soul, of that bleſt State</l>
+               <l>More fully to Participate.</l>
+               <l>My Eager Soul the <hi>Cherub</hi> check'd,</l>
+               <l>She told me that no greater Bliſs below</l>
+               <l>A Mortal here could know:</l>
+               <l>She told me, here 'twas all in vain t'expect</l>
+               <l>A View of that Bright Fountain whence it came,</l>
+               <l>I might but taſte the Flowing ſtream.</l>
+               <l>Thus ſpake the Saint, and then Her Aid withdrew;</l>
+               <l>My Soul ſtreight Flagg'd, my Lyre grew ſilent too:</l>
+               <l>She wing'd away, and all, me-thought, around</l>
+               <l>Did loud ſweet Harmony from the <hi>Aetherial Arch</hi> reſound.</l>
+            </lg>
+         </div>
+         <div type="Anacreontic_ode">
+            <pb n="5" facs="tcp:36705:5"/>
+            <head>
+               <hi>ST<g ref="char:V">Ʋ</g>DY</hi> and <hi>EXERCISE:</hi> An Anacreontick ODE.</head>
+            <l>TELL me <hi>Gentle Muſes</hi> how</l>
+            <l>I ſtill may beſt my time beſtow;</l>
+            <l>And yet I think you've don't before:</l>
+            <l>'Tis ſo my days to number o're,</l>
+            <l>As every Minute there may be</l>
+            <l>A Compound of their Harmony.</l>
+            <l>'Twas ſometime to Repair to you,</l>
+            <l>And pay the Viſit there that's due.</l>
+            <l>Sometime to Unbend my Mind,</l>
+            <l>And moderate Recreation find;</l>
+            <l>Sometime to the Shades retire,</l>
+            <l>Charming my ſorrows with a Lyre,</l>
+            <l>Where, as the Various Notes I hear,</l>
+            <l>Some grave, ſome ſhrill, to ſtrike mine Ear,</l>
+            <l>Thus mix'd, compoſe an Harmony;</l>
+            <l>In all my Actions ſo ſhould I;</l>
+            <l>To follow Buſineſs when it calls</l>
+            <l>And pleaſure in the Intervals.</l>
+            <l>'Twas in a word to uſe them both,</l>
+            <l>So that I ne're might either loath.</l>
+         </div>
+         <div type="poem">
+            <head>
+               <g ref="char:V">Ʋ</g>pon IDLENESS.</head>
+            <lg>
+               <l>AWake my Soul, ſhake off this drowſie fit,</l>
+               <l>Which though perhaps with eaſe,</l>
+               <pb n="6" facs="tcp:36705:6"/>
+               <l>May in ſoft Circles round Thy Temples ſit,</l>
+               <l>'Tis yet a curs'd Diſeaſe.</l>
+               <l>Let not deluding <hi>Syrens</hi> Tongues,</l>
+               <l>With ſoothing Words and ſoftning Songs</l>
+               <l>Lull Thee into a careleſs ſleep,</l>
+               <l>And in Gilt chains Thy Active ſpirits keep;</l>
+               <l>But let them rove till they have broke the Chain,</l>
+               <l>And you can your Loſt Liberty regain:</l>
+               <l>For <hi>Sleep</hi> and <hi>Death</hi> in all things ſo Agree,</l>
+               <l>That Soul that's loſt in <hi>Sleep</hi> doth ceaſe to be.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>View how in Heaven's high Cannopy above</l>
+               <l>The Golden <hi>Sun</hi> doth ſtray,</l>
+               <l>And whilſt it in a Conſtant Line does move,</l>
+               <l>It meaſures out the Day.</l>
+               <l>
+                  <hi>Motion's</hi> that God, which by fix'd Laws,</l>
+               <l>Such curious Forms in matter draws,</l>
+               <l>Matter it ſelf an heavy Maſs</l>
+               <l>Rude and inactive of one Common Face,</l>
+               <l>And ow's thoſe Various ſhapes in which it's dreſt</l>
+               <l>To motion's Seal on it's groſs Lump impreſt;</l>
+               <l>Ah! can you then in <hi>Sloth</hi> contented Live,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſeleſs, Supine,</hi> and <hi>Buried</hi> whilſt <hi>alive?</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No, no, my Soul, you muſt without delay</l>
+               <l>Your Faculties imploy</l>
+               <l>In ſomething worthy of your thoughts, which may</l>
+               <l>Hereafter yield you Joy.</l>
+               <pb n="7" facs="tcp:36705:6"/>
+               <l>Which may with Virtues pleaſing Art</l>
+               <l>Your Active ſelf from ſin avert.</l>
+               <l>When if with <hi>Luxury</hi> and <hi>Eaſe</hi>
+               </l>
+               <l>You yield your ſinful craving luſts to pleaſe,</l>
+               <l>And to unruly Paſſions once give way,</l>
+               <l>They'll quickly Lead your reſtleſs thoughts aſtray:</l>
+               <l>Like a well Manur'd Garden left unſown,</l>
+               <l>Which with Rank weeds will ſoon be over grown.</l>
+            </lg>
+         </div>
+         <div type="Pindaric_ode">
+            <head>
+               <hi>TRAVEL.</hi> A Pindarique ODE.</head>
+            <lg>
+               <l>COME Mighty Muſe inſpire my Song,</l>
+               <l>A Rapid Tide of Thought prepare,</l>
+               <l>In Dithyrambick Numbers let it roll along;</l>
+               <l>Yet all will be too weak I Fear.</l>
+               <l>Come then your Utmoſt Forces joyn</l>
+               <l>To carry on my great deſign.</l>
+               <l>I mean to ſail the World around,</l>
+               <l>And ſee great Natures Utmoſt bound;</l>
+               <l>I'le Paſs where Roaring Seas, I'le hear,</l>
+               <l>Where <hi>Phaebus</hi> Cools his Burning Car.</l>
+               <l>Then on my firſt intended Road</l>
+               <l>With ſprightly Vigour on I'le haſt</l>
+               <l>To View the Gilded Arches of the Eaſt,</l>
+               <l>Where riſes firſt the Fiery God</l>
+               <l>From his Ambroſian Feaſt.</l>
+               <pb n="8" facs="tcp:36705:7"/>
+               <l>Nor ſhall the Ocean ſtop my Grand <hi>Parole,</hi>
+               </l>
+               <l>I'le croſs the Globe from <hi>Pole</hi> to <hi>Pole.</hi>
+               </l>
+               <l>I'le cut the burning Line, and tread</l>
+               <l>Where Natures Fetter'd in Her Icy Bed.</l>
+               <l>For why dull Mortals, tell me why?</l>
+               <l>Should Active Spirits Lye</l>
+               <l>Like <hi>Oriental Gems</hi> ſtill buri'd in obſcurity?</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>And whence ye ſubtil Vehicles of the Air?</l>
+               <l>Ye Gentle Spirits that are nought but Soul?</l>
+               <l>Is't we to duller matter you preferr?</l>
+               <l>But for your ſpeedy Travel through the whole,</l>
+               <l>So ſwift that in a moment you appear</l>
+               <l>Both here and every where.</l>
+               <l>Whence is it that we all adore</l>
+               <l>The Glorious Planet of the day?</l>
+               <l>But that Heaven's Immenſe Poſts He meaſures o're</l>
+               <l>Diſperſing every where his Rays?</l>
+               <l>Like an attempting Gyant on</l>
+               <l>Some Noble Expedition.</l>
+               <l>Still with Unweari'd Force</l>
+               <l>Begins and Ends His courſe.</l>
+               <l>Thus, thus ſhould ev'ry Active Spirit do</l>
+               <l>As far as Mortal Nature will allow.</l>
+               <l>And ſure we have a Sphere as Glorious to Travel here below.</l>
+            </lg>
+            <lg n="3">
+               <pb n="9" facs="tcp:36705:7"/>
+               <head>III.</head>
+               <l>What wondrous pleaſure muſt it needs impart</l>
+               <l>To view the Effects of Nature and of Art?</l>
+               <l>In every place with various ſhapes</l>
+               <l>To ſee how this the other apes.</l>
+               <lg>
+                  <l>But moſt of all Great Nature's work ſurprize,</l>
+                  <l>Hence we behold vaſt mountains to ariſe</l>
+                  <l>And with their Aiery Tops to pierce the Skies.</l>
+               </lg>
+               <l>(Nor does my Muſe</l>
+               <l>Now <hi>Metaphors</hi> and <hi>Fancies</hi> uſe.)</l>
+               <l>This <hi>Taeneriff</hi> where <hi>Pico</hi> ſtands can ſhow</l>
+               <l>Up whoſe vaſt rocky ſteep we Labouring go,</l>
+               <l>And leave mortality and things below,</l>
+               <l>Mounted above the clouds a pleaſing Scene</l>
+               <l>Bright and Serene,</l>
+               <l>Environs all around, and here</l>
+               <l>We breathe like Gods, in pure Aetherial Air.</l>
+               <l>On ſome you'l find vaſt heaps of Snow,</l>
+               <l>From ſome a Flaming Deluge flow.</l>
+               <l>Lo! <hi>Atlas</hi> vaſt ſtupendious Bulky frame,</l>
+               <l>It's ſtately Head, how lofty Towers;</l>
+               <l>We may believe it hither came,</l>
+               <l>Another Globe dropt down on ours.</l>
+               <l>Contrary manners and their Laws</l>
+               <l>(For wondrouſly the Soul delights</l>
+               <l>To ſee ſuch Oppoſites)</l>
+               <l>By which Each State it's People aws.</l>
+               <l>Theſe and a Thouſand more He knows, and only He</l>
+               <l>Who gives himſelf the looſe, and then enjoys an Univerſal Liberty.</l>
+            </lg>
+            <lg n="4">
+               <pb n="10" facs="tcp:36705:8"/>
+               <head>IV.</head>
+               <l>Tell me if we no Pleaſure get</l>
+               <l>In changing of one conſtant Seat,</l>
+               <l>What made the <hi>grave Philoſophers</hi>
+               </l>
+               <l>Thus Travel o're the Heav'nly Spheres,</l>
+               <l>With ſo much eagerneſs to trace</l>
+               <l>A Petty Star's Myſterious Maze.</l>
+               <l>So nicely they direct the Scheme,</l>
+               <l>That if thy cou'd, I'm ſure they'd run the ſame.</l>
+               <l>But ſince their body that denies,</l>
+               <l>Fancy the defect ſupplies.</l>
+               <l>And with ambitious thoughts dogs every where,</l>
+               <l>The little <hi>ſhining Traveller.</hi>
+               </l>
+               <l>Yes, there's a ſtrange, ſtrange ſweetneſs in Variety,</l>
+               <l>Which captivates the curious Soul, and draws it from its lurking hole</l>
+               <l>To view the ſpacious World's ſurprizing Imag'ry</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But now my Muſe declare</l>
+               <l>How we ſhould ſtill beware</l>
+               <l>Of that too Fatal <hi>Siren Curioſity,</hi>
+               </l>
+               <l>The only Priſon of our Joy.</l>
+               <l>When we our Native ſeat forſake</l>
+               <l>Only a Tranſitory View to take,</l>
+               <l>And ſlightly gaze away a few looſe years,</l>
+               <l>Upon the Noble ſtructure of the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe.</hi>
+               </l>
+               <l>No 'tis not this I mean to do,</l>
+               <l>In all my roving to and fro;</l>
+               <pb n="11" facs="tcp:36705:8"/>
+               <l>But Weighing and conſidering all</l>
+               <l>The Wonders of this <hi>Earthly Ball;</hi>
+               </l>
+               <l>I'le then my ſtrong affections raiſe</l>
+               <l>Unto th' <hi>Almighty Author's</hi> Praiſe.</l>
+               <l>From manners which I've here been ſhown</l>
+               <l>I'le draw a Model for my own.</l>
+               <l>Thus fraught my Muſe, come let's no longer rome,</l>
+               <l>But wiſely now return, and Travel o're our ſelves at home.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>MARRIAGE.</head>
+            <l>WHEN Man was firſt a <hi>Loneſom</hi> Creature made</l>
+            <l>The ſole Inhabitant of <hi>Eden</hi>'s bliſsful ſhade,</l>
+            <l>Th' <hi>Almighty</hi> ſaw Him, and reſolv'd t' afford</l>
+            <l>A <hi>Conſort</hi> for the <hi>Melancholly</hi> Lord;</l>
+            <l>Here firſt from Heaven the Nuptial Tie began,</l>
+            <l>And <hi>Woman</hi> made a kind meet help for man.</l>
+            <lg>
+               <l>With Pleaſures wing'd their minutes gayly flew,</l>
+               <l>None in ſo ſhort a time ſuch Tranſports knew,</l>
+               <l>Nor ever will, as did that Happy Two.</l>
+            </lg>
+            <l>But ſoon Alas! The Fatal Tempter came,</l>
+            <l>With Flatt'ring hopes deceives the yielding Dame:</l>
+            <l>Shews her the charms of the Forbidden Tree,</l>
+            <l>What Beauty 'twould beſtow, what Heavenly Majeſty!</l>
+            <l>Streight ſhe reſolves the pleaſing Fruit to taſte,</l>
+            <l>And on it's ſweets her longing Senſes Feaſt.</l>
+            <l>Then with her Art as well improv'd the Cheat,</l>
+            <l>And gain'd her Husband with the ſpecious Bait;</l>
+            <pb n="12" facs="tcp:36705:9"/>
+            <l>Hence both offend againſt their <hi>Angry God,</hi>
+            </l>
+            <l>Whoſe <hi>Vengeance</hi> drove them from the <hi>bleſt abode;</hi>
+            </l>
+            <l>All Joy's now gone, a Piteous Life they lead,</l>
+            <l>In painful toil and ſorrow ſeek their Bread.</l>
+            <l>Thus through ſucceeding years an Equal Fate</l>
+            <l>We often find attend the Marriage State.</l>
+            <l>'Tis pleaſing, the Fond Senſe is all their care,</l>
+            <l>'Tis this firſt joyns, then ſlightly holds the heedleſs pair.</l>
+            <l>The Female ſtill the Tempter's Art employs,</l>
+            <l>And fondly ſtrives t' enhaunce the fancy'd joys,</l>
+            <l>With Gaudy Plumes, and Beauteous charms aſſails,</l>
+            <l>And o're th' unwary Mortal's heart prevails.</l>
+            <l>So both deluded by the Fatal ſnare,</l>
+            <l>Not <hi>Heavens</hi> Bleſſings, but it's Curſes ſhare;</l>
+            <lg>
+               <l>Ah! then let the firſt <hi>Parent</hi> an Example ſtand</l>
+               <l>That Virtues charms our Beauty ſhould command;</l>
+               <l>Thoſe prove the ſtrongeſt Cement to the Nuptial Band.</l>
+            </lg>
+         </div>
+         <div type="Anacreontic_ode">
+            <head>
+               <hi>HOSPITALITY.</hi> An Anacreontique ODE.</head>
+            <l>COME ſince I muſt a Treat procure</l>
+            <l>To Feaſt my Little Epicure;</l>
+            <l>I'le tell thee, Pretty Gueſt, my Muſe,</l>
+            <l>What ſort of Diet I would Uſe,</l>
+            <lg>
+               <l>I know you don't expect to Eat</l>
+               <l>A Multiplicity of Meat,</l>
+               <l>The vain profuſeneſs of the Great.</l>
+            </lg>
+            <pb n="13" facs="tcp:36705:9"/>
+            <l>I'm ſure you'd be diſpleaſed to ſee</l>
+            <l>A rich and coſtly Tapeſtry,</l>
+            <l>Adorn my Room; And here a fry</l>
+            <l>Of interrupting waiters by.</l>
+            <l>No, no, not I, I'le none of theſe</l>
+            <l>They often cloy, but never pleaſe.</l>
+            <l>Nor need my gentle Stranger Fear</l>
+            <l>The ſtarving on a <hi>Miſers</hi> Fare;</l>
+            <l>I hate th' Exceſſes of them both,</l>
+            <l>The one I ſhun, The one I Loath:</l>
+            <lg>
+               <l>A Tipling Glaſs or two ſhall be</l>
+               <l>To make us merry company,</l>
+               <l>And all beyond's but Luxury.</l>
+            </lg>
+            <l>Come now my friends, 'tis thus I Treat</l>
+            <l>We'll Eat to live, whilſt others live to Eat.</l>
+         </div>
+         <div type="poem">
+            <head>CONVERSATION.</head>
+            <l>TIS this Reſounds through all the Univerſe,</l>
+            <l>'Tis Nature's General charge that all converſe;</l>
+            <l>Hence 'tis in Summer time we hear</l>
+            <l>The little <hi>charming Songſters</hi> of the Air</l>
+            <l>In ſtrains to greet each other; all around</l>
+            <l>The Pretty warbling Choir by turns reſound.</l>
+            <l>The Verdant Trees hence know each other's Mind,</l>
+            <l>And Model in like Notes the fanning Winds.</l>
+            <l>Each ſtream returns the Murmurs of its Neighbouring Rill</l>
+            <l>And dancing Eccho bounds from Hill to Hill,</l>
+            <pb n="14" facs="tcp:36705:10"/>
+            <l>This, This their <hi>Plaſtick</hi> converſation is,</l>
+            <l>And Noble Man, to Noble Man has his:</l>
+            <l>As <hi>Sympathetick Inſtinct</hi> mixes there,</l>
+            <l>So <hi>Divine Reaſon</hi> is the Compound here.</l>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>RETIREMENT,</hi> Sitting in an ARBOUR.</head>
+            <lg>
+               <lg>
+                  <l>LET Mortals proudly ſwell, and ſtriving to look great</l>
+                  <l>Peach on the Pinacles of State,</l>
+                  <l>But fairer marks for Envies Hate.</l>
+               </lg>
+               <lg>
+                  <l>The Crazy World's vaſt Hight I fly,</l>
+                  <l>And in an Humble corner Lye,</l>
+                  <l>There, There enjoy a bleſt Obſcurity.</l>
+               </lg>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>The Pleaſures which at <hi>Court</hi> appear,</l>
+               <l>Are all but like the Fanci'd food,</l>
+               <l>They ſay th' Accurſed Fiends prepare</l>
+               <l>For thoſe fond Wretches they delude,</l>
+               <l>Afford no real taſt, 'tis all but empty Air:</l>
+               <l>To the conſidering mind they're too well known,</l>
+               <l>With me the Gilded Pill will ne're go down.</l>
+            </lg>
+            <lg n="3">
+               <pb n="15" facs="tcp:36705:10"/>
+               <head>III.</head>
+               <l>I ſeek no Pow'rful but a ſafe Retreat,</l>
+               <l>I'd not be <hi>baſely</hi> poor nor <hi>nobly</hi> great.</l>
+               <l>He only Happy lives</l>
+               <l>Contented with what ſparing fortune gives.</l>
+               <l>Let <hi>ſafety</hi> all my Life attend,</l>
+               <l>And Bleſt <hi>Tranquility</hi> my end.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>This granted, now methinks I ſee</l>
+               <l>My ſelf the Happy Soul I wiſh to be.</l>
+               <l>Oh! how I'm bleſt with <hi>Safety, Health,</hi> and <hi>Peace?</hi>
+               </l>
+               <l>How raviſht to behold Serenely theſe?</l>
+               <l>Free from all Boiſt'rous care and noiſy ſtrife,</l>
+               <l>Stream through the flow'ry Vale, and ſoft Receſs of Life.</l>
+            </lg>
+         </div>
+         <div type="ode">
+            <head>An ODE to my <hi>Honoured FATHER,</hi> On his <hi>Birth-Day;</hi> being the <hi>Glorious EPIPHANY.</hi>
+            </head>
+            <lg>
+               <l>ONCE more my Muſe inſpire my Thoughts,</l>
+               <l>Your Pious wiſhes all prepare;</l>
+               <l>With Charming Numbers, Tuneful Notes</l>
+               <l>Implore His Sacred Genius care.</l>
+               <pb n="16" facs="tcp:36705:11"/>
+               <l>Thank the bleſt Guardian for what's paſt,</l>
+               <l>And beg His Happy days may laſt.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>His Actions by kind Fate be crown'd,</l>
+               <l>And Plenty flowing ſtill appear,</l>
+               <l>Nor Envy carp, that thus He 'has found</l>
+               <l>Succeſs through each revolving Year.</l>
+               <l>So no obſtructing cares ſhall ſtay</l>
+               <l>Life's gentle current in it's Way.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>May Feeble Age be bleſt with Eaſe,</l>
+               <l>And here when Life's ſoft Lambent Fire</l>
+               <l>As Fading Nature's food decays</l>
+               <l>Shall of its ſelf alone expire;</l>
+               <l>Then fed with Subſtance more Divine,</l>
+               <l>A Glorious Luminary ſhine.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>All this th' Angelic Spirit pray</l>
+               <l>For His Dear Sake, who lately took</l>
+               <l>A miſerable frame of Mortal clay,</l>
+               <l>And all the joys of Heav'n forſook,</l>
+               <l>To eaſe diſtreſs'd, poor Mortal Race:</l>
+               <l>For all from thence breathes Love and Peace.</l>
+            </lg>
+            <lg n="5">
+               <pb n="17" facs="tcp:36705:11"/>
+               <head>V.</head>
+               <l>And now aroſe His Genial Star,</l>
+               <l>A Bright Directing <hi>Pharus</hi> ſtood,</l>
+               <l>To light the Nations from afar</l>
+               <l>Thrô Error's Night, and Vice dire-Flood,</l>
+               <l>Where Truth marks out the Radiant way</l>
+               <l>To Bliſs, and the Bright Realms of Day.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Like that, Kind Guardian, then diſpence</l>
+               <l>Unto thy Lovely Pupil Soul</l>
+               <l>Such bright inliv'ning Influence,</l>
+               <l>Which all its faculties may Rule.</l>
+               <l>May from His Pen Angelic Precepts flow,</l>
+               <l>To guide bewildred Mortals in their courſe below!</l>
+            </lg>
+         </div>
+         <div type="Pindaric_ode">
+            <head>Upon our <hi>Daily Preparation</hi> for <hi>DEATH.</hi> A Pindarique ODE.</head>
+            <epigraph>
+               <q xml:lang="lat">
+                  <p>—Quiſquam ne ſecundis<lb/> Tradere ſe fatis audet niſi morte parata?</p> 
+                  <bibl>Lucan.</bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <lg>
+                  <l>SAY <hi>Heav'n-born Spirit,</hi> ſay</l>
+                  <l>Dear Part'ner in this <hi>Tenement</hi> of clay,</l>
+                  <l>Whither thou goeſt, when hence thou 'rt wing'd away.</l>
+               </lg>
+               <pb n="18" facs="tcp:36705:12"/>
+               <l>For ſure Thou'rt doom'd by an unalterable fate</l>
+               <l>To ſome Immortal State</l>
+               <l>Of <hi>Woe</hi> or <hi>Bliſs;</hi>
+               </l>
+               <l>As thou haſt been employ'd in this.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <lg>
+                  <l>Ah! ne're let that Great Task be then laid by,</l>
+                  <l>
+                     <hi>(Whilſt Living to prepare to dy,)</hi>
+                  </l>
+                  <l>And after to be fitted for <hi>Eternity.</hi>
+                  </l>
+               </lg>
+               <l>
+                  <hi>Eternity!</hi> How vaſt a Sum</l>
+               <l>That ſwallows up the Preſent, and confounds the time to come?</l>
+               <l>
+                  <hi>Eternity!</hi> How Natures frame</l>
+               <l>Shakes at the dreadful Name?</l>
+               <l>Come then Aſſiſt me Virtues mighty force,</l>
+               <l>Aſſiſt me now e're I</l>
+               <l>The ſhoarleſs Ocean Try;</l>
+               <l>And to an unknown <hi>ſomewhere</hi> muſt direct my courſe.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Pure <hi>Innocence</hi> my Safety ſhall maintain,</l>
+               <l>And Equal <hi>Juſtice</hi> guide the Reign.</l>
+               <l>Firm <hi>Hope</hi> my <hi>Anchor,</hi> and a Mind</l>
+               <l>With Holy Thoughts refin'd</l>
+               <l>Shall be the <hi>Bark;</hi> the Heavenly Gale</l>
+               <l>Of <hi>Grace,</hi> I pray, may fill my Sail.</l>
+               <l>
+                  <hi>Faith</hi> is my Compaſs; <hi>Charity</hi>
+               </l>
+               <l>My Stowage; and my Ballaſt <hi>Godly Fear;</hi>
+               </l>
+               <l>My Pilot <hi>Prudence,</hi> who ſtill bears an Eye</l>
+               <l>To <hi>CHRIST</hi> my Poleſtar; and while thus I ſteer,</l>
+               <pb n="19" facs="tcp:36705:12"/>
+               <l>No doubt my <hi>Weather-beaten</hi> Soul at laſt</l>
+               <l>May on the Bliſsful Shore of <hi>Happineſs</hi> be caſt.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <lg>
+                  <l>And now (methinks) I hear</l>
+                  <l>The Solemn Trumpet ſtrike mine Ear,<note place="margin">J<g ref="char:V">Ʋ</g>DGE<g ref="char:EOLhyphen"/>MENT.</note>
+                  </l>
+                  <l>And a Dread Triumph doth appear.</l>
+               </lg>
+               <l>'Tis thine <hi>Dear Saviour</hi> who art come</l>
+               <l>To call the Buri'd from their Tomb,</l>
+               <l>To Summon thoſe that Live t'appear,</l>
+               <l>And meet <hi>Thee</hi> in the Air.</l>
+               <l>Wo then to thoſe ſad Souls that want</l>
+               <l>Th' unſpotted Robes, that ſhould adorn the Saint!</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Aſſiſt us then Ye kinder Powers above;</l>
+               <l>That all our thoughts towards you may move.</l>
+               <l>May we like you in <hi>God</hi> delight,</l>
+               <l>Have ſtill whilſt Here our Heav'n in Sight!</l>
+               <lg>
+                  <l>May all our faculties take care</l>
+                  <l>Souls pure and Holy to prepare,</l>
+                  <l>Meet Partners for you there!</l>
+               </lg>
+               <lg>
+                  <l>May all whilſt living ſo grow wiſe</l>
+                  <l>(To avoid a fatal ſad ſurpriſe)</l>
+                  <l>Still, ſtill to keep the laſt dread Scene prefix'd before their Eyes.</l>
+               </lg>
+            </lg>
+         </div>
+         <closer>Gloria Deo.</closer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:36705:13"/>
+            <head>ADVERTISEMENT.</head>
+            <list>
+               <item>
+                  <p>THE Table of <hi>CEBES</hi> the <hi>Theban</hi> Philoſopher, or a True Emblem of Human Life.</p>
+                  <p>Done out of <hi>Greek</hi> into <hi>Engliſh.</hi> Printed at the Univerſity Preſs in <hi>Cambridge,</hi> for <hi>John Pindar</hi> Bookſel<g ref="char:EOLhyphen"/>ler there.</p>
+               </item>
+               <item>
+                  <p>A Poem upon <hi>Chriſtmas-day,</hi> De<g ref="char:EOLhyphen"/>dicated to the Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God <hi>JOHN</hi> Lord Biſhop of <hi>Norwich.</hi>
+                  </p>
+               </item>
+            </list>
+            <p>Both by the ſame Author.</p>
+            <pb facs="tcp:36705:13" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
